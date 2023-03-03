@@ -1,0 +1,4 @@
+
+rm dependency-reduced-pom.xml
+
+java -jar target/salient.jar
